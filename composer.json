@@ -15,13 +15,12 @@
     }
   ],
   "require": {
-    "php": ">=5.5.9",
-    "laravel/lumen-framework": ">=5.0"
+    "php": ">=7.4.0",
+    "laravel/lumen-framework": ">=7.0"
   },
   "require-dev": {
-    "laravel/lumen":"~5.0",
-    "phpunit/phpunit": "~4.0",
-    "fzaninotto/faker": "v1.4.0",
+    "laravel/lumen":"~7.0",
+    "phpunit/phpunit": "~8.5",
     "fabpot/php-cs-fixer": "~1.11"
   },
   "autoload": {
