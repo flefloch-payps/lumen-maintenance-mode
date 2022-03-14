@@ -15,8 +15,8 @@
     }
   ],
   "require": {
-    "php": ">=7.4.0",
-    "laravel/lumen-framework": ">=7.0"
+    "php": ">=7.4.0||^8.0",
+    "laravel/lumen-framework": ">=8.0"
   },
   "require-dev": {
     "laravel/lumen":"~7.0",
